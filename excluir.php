@@ -20,7 +20,7 @@
     
     <h1>Excluir</h1>
     <form method="post">
-        <label>Digite o nome do Cadastro:</label>
+        <label>Selecione o nome do Cadastro:</label>
         <select name="id">
             <option value="">Selecione um Nome</option>
              <?php
