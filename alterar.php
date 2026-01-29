@@ -13,12 +13,14 @@
             <li><a href="alterar.php">Alterar</a></li>
             <li><a href="consultar.php">Consultar</a></li>
             <li><a href="excluir.php">Excluir</a></li>
+            <li><a href="pedidos.php">Pedidos</a></li>
+            <li><a href="consultarPedi.php">Consultar Pedidos</a></li>
         </ul>
     </nav>
     <h1>Alterar</h1>
     <form method="post">
 
-    <label>Selecione o ID</label>
+    <label>Selecione o Nome</label>
     <select name="id">
              <option value="">Selecione o Nome</option>
         <?php
@@ -38,7 +40,7 @@
         </select><br>
 
 
-        <label>Selecione o Nome do cadastro</label>
+        <label>Digite o Nome do cadastro</label>
         <input type="text" name='nome'>
         
 

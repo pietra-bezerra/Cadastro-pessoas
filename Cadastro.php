@@ -11,10 +11,12 @@
 <body>
  <nav>
         <ul>
-            <li><a href="Cadastro.php">Cadastro</a></li>
+           <li><a href="Cadastro.php">Cadastro</a></li>
             <li><a href="alterar.php">Alterar</a></li>
             <li><a href="consultar.php">Consultar</a></li>
             <li><a href="excluir.php">Excluir</a></li>
+            <li><a href="pedidos.php">Pedidos</a></li>
+            <li><a href="consultarPedi.php">Consultar Pedidos</a></li>
         </ul>
     </nav>
 
